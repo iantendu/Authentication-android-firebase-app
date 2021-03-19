@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188283466278",
+    "project_id": "reglogin-23f24",
+    "storage_bucket": "reglogin-23f24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188283466278:android:77ebc196b498eb1b5fece7",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188283466278-lf7jgars3q5fs0j9ei10hs7chujkuumr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F84wIHZMgzcorNv-90yg1aDi23iml-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188283466278-lf7jgars3q5fs0j9ei10hs7chujkuumr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
